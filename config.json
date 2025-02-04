@@ -1,0 +1,8 @@
+{
+  "smtp_host": "reventsystems.com",
+  "smtp_port": 587,
+  "smtp_user": "support@reventsystems.com",
+  "smtp_pass": "support@reventsystems.com",
+  "from": "support@reventsystems.com"
+}
+
